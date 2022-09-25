@@ -140,6 +140,11 @@ span.title {
 
 /* Media queries for Desktop */
 @media screen and (min-width:900px) {
+    body{
+        width: 1440px;
+        height: 900px;
+        margin: 150px auto;
+    }
     .main-container {
         width: 354px;
         height: 600px;
